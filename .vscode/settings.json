@@ -1,0 +1,11 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "files.autoSave": "off",
+  "editor.fontSize": 16,
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
